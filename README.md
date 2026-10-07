@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AccidentResponse - Python Backend + Android App
 
 Do folders hain:
@@ -66,3 +67,6 @@ Valid event_type: Possible Accident, Confirmed Accident, Obstacle Detected, Syst
 - Inline map (abhi "Open in Google Maps" button hai)
 - PostgreSQL (abhi SQLite file `backend/accident.db`; pgAdmin se dekhna ho to PostgreSQL pe shift karna padega)
 - Internet par hosting (abhi laptop par chalta hai)
+=======
+# AccidentResponse
+>>>>>>> fb5bef3a61ca80daa0fae5260579dcddd74f6aec
