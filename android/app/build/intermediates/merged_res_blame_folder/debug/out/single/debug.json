@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "com.ritik.accidentresponse.app-merged_res-20:/drawable_bg_button.xml.flat",
+        "source": "com.ritik.accidentresponse.app-main-22:/drawable/bg_button.xml"
+    },
+    {
+        "merged": "com.ritik.accidentresponse.app-merged_res-20:/layout_item_section.xml.flat",
+        "source": "com.ritik.accidentresponse.app-main-22:/layout/item_section.xml"
+    },
+    {
+        "merged": "com.ritik.accidentresponse.app-merged_res-20:/layout_activity_dashboard.xml.flat",
+        "source": "com.ritik.accidentresponse.app-main-22:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "com.ritik.accidentresponse.app-merged_res-20:/layout_item_contact.xml.flat",
+        "source": "com.ritik.accidentresponse.app-main-22:/layout/item_contact.xml"
+    },
+    {
+        "merged": "com.ritik.accidentresponse.app-merged_res-20:/layout_activity_auth.xml.flat",
+        "source": "com.ritik.accidentresponse.app-main-22:/layout/activity_auth.xml"
+    },
+    {
+        "merged": "com.ritik.accidentresponse.app-merged_res-20:/drawable_ic_launcher.xml.flat",
+        "source": "com.ritik.accidentresponse.app-main-22:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "com.ritik.accidentresponse.app-merged_res-20:/drawable_bg_input.xml.flat",
+        "source": "com.ritik.accidentresponse.app-main-22:/drawable/bg_input.xml"
+    },
+    {
+        "merged": "com.ritik.accidentresponse.app-merged_res-20:/layout_item_event.xml.flat",
+        "source": "com.ritik.accidentresponse.app-main-22:/layout/item_event.xml"
+    },
+    {
+        "merged": "com.ritik.accidentresponse.app-merged_res-20:/layout_activity_event_detail.xml.flat",
+        "source": "com.ritik.accidentresponse.app-main-22:/layout/activity_event_detail.xml"
+    },
+    {
+        "merged": "com.ritik.accidentresponse.app-merged_res-20:/layout_activity_profile.xml.flat",
+        "source": "com.ritik.accidentresponse.app-main-22:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.ritik.accidentresponse.app-merged_res-20:/layout_activity_list.xml.flat",
+        "source": "com.ritik.accidentresponse.app-main-22:/layout/activity_list.xml"
+    },
+    {
+        "merged": "com.ritik.accidentresponse.app-merged_res-20:/drawable_bg_button_outline.xml.flat",
+        "source": "com.ritik.accidentresponse.app-main-22:/drawable/bg_button_outline.xml"
+    },
+    {
+        "merged": "com.ritik.accidentresponse.app-merged_res-20:/layout_view_toolbar.xml.flat",
+        "source": "com.ritik.accidentresponse.app-main-22:/layout/view_toolbar.xml"
+    },
+    {
+        "merged": "com.ritik.accidentresponse.app-merged_res-20:/layout_dialog_contact.xml.flat",
+        "source": "com.ritik.accidentresponse.app-main-22:/layout/dialog_contact.xml"
+    },
+    {
+        "merged": "com.ritik.accidentresponse.app-merged_res-20:/layout_dialog_edit_profile.xml.flat",
+        "source": "com.ritik.accidentresponse.app-main-22:/layout/dialog_edit_profile.xml"
+    },
+    {
+        "merged": "com.ritik.accidentresponse.app-merged_res-20:/drawable_bg_card.xml.flat",
+        "source": "com.ritik.accidentresponse.app-main-22:/drawable/bg_card.xml"
+    },
+    {
+        "merged": "com.ritik.accidentresponse.app-merged_res-20:/layout_activity_location.xml.flat",
+        "source": "com.ritik.accidentresponse.app-main-22:/layout/activity_location.xml"
+    }
+]

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <EditText
+        android:id="@+id/etName"
+        style="@style/Input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:hint="Contact name"
+        android:inputType="textPersonName|textCapWords" />
+
+    <EditText
+        android:id="@+id/etPhone"
+        style="@style/Input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:hint="Phone number (10 digits)"
+        android:inputType="phone"
+        android:maxLength="10" />
+
+    <Spinner
+        android:id="@+id/spRelationship"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="6dp" />
+
+    <CheckBox
+        android:id="@+id/cbPrimary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Set as Primary Contact" />
+</LinearLayout>
